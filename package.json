@@ -2,9 +2,6 @@
   "name": "openapi-directory-lite",
   "description": "Lite version of OpenAPI Directory API",
   "version": "2.0.3",
-  "bugs": {
-    "url": "https://github.com/darosh/openapi-directory-lite/issues"
-  },
   "devDependencies": {
     "bluebird": "^3.5.0",
     "deep-sort-object": "^1.0.2",
@@ -22,7 +19,6 @@
     "showdown": "^1.7.4",
     "urijs": "^1.18.12"
   },
-  "homepage": "https://github.com/darosh/openapi-directory-lite#readme",
   "license": "MIT",
   "main": "index.js",
   "napa": {
@@ -34,7 +30,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darosh/openapi-directory-lite.git"
+    "url": "git+https://github.com/digiglu/openapi-directory-lite.git"
   },
   "scripts": {
     "init": "napa",
